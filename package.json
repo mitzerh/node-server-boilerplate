@@ -1,0 +1,25 @@
+{
+  "name": "server-boilerplate",
+  "version": "1.0.0",
+  "description": "My node server boilerplate",
+  "main": "index.js",
+  "scripts": {},
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitzerh/node-server-boilerplate.git"
+  },
+  "author": "Helcon Mabesa",
+  "bugs": {
+    "url": "https://github.com/mitzerh/node-server-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mitzerh/node-server-boilerplate#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "cli-helper": "^0.2.1",
+    "colors": "^1.1.2",
+    "express": "^4.16.2",
+    "vue": "^2.5.2",
+    "vue-server-renderer": "^2.5.2"
+  }
+}
